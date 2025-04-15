@@ -7,6 +7,7 @@ A web-based tool for converting Markdown to PDF.
   - Simple and easy to use
   - Online conversion without installation
   - Supports many Markdown syntax
+  - Multi-language support, English, Español, Français, Português, Русский, and 中文.
 
 [markdown to pdf Video Tutorial](https://youtu.be/ZKSeqqI_9tY)
 
