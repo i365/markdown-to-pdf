@@ -2,7 +2,7 @@
 
 *Are you struggling to print your Markdown files while maintaining consistent formatting? The easiest solution is to convert them to PDF first using [MarkdownToPDF.janqi.com](https://markdowntopdf.janqi.com) - a free online tool that ensures perfect printing results every time.*
 
-## Quick Solution: Convert Markdown to PDF with MarkdownToPDF.janqi.com
+## Quick Solution: Convert Markdown to PDF
 
 Converting Markdown to PDF before printing is the most reliable approach, and [MarkdownToPDF.janqi.com](https://markdowntopdf.janqi.com) makes it simple:
 
